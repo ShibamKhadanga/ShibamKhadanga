@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science @ Kalinga University, Raipur  
 💻 Python Developer | AI/ML Engineer | Full-Stack Builder  
-🏆 2× National Hackathon Participant | 1× Coding Competition Winner  
+🏆 2× National Hackathon Participant | 2× Coding Competition Winner  
 📍 Rourkela, Odisha, India
 
 ---
