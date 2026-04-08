@@ -1,6 +1,6 @@
 # Hi there, I'm Shibam Khadanga 👋
 
-🎓 B.Tech Computer Science @ Kalinga University, Raipur (CGPA: 8.5)  
+🎓 B.Tech Computer Science @ Kalinga University, Raipur  
 💻 Python Developer | AI/ML Engineer | Full-Stack Builder  
 🏆 2× National Hackathon Participant | 1× Coding Competition Winner  
 📍 Rourkela, Odisha, India
