@@ -3,14 +3,9 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shibam%20Khadanga&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Backend%20Specialist&descAlignY=60&descColor=8b949e&descSize=18"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+backend+systems+%F0%9F%A4%96;Python+%7C+Flask+%7C+PostgreSQL+%7C+scikit-learn;2%C3%97+National+Hackathon+Participant+%F0%9F%8F%86;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
-
-<!-- Social Badges with hover animation -->
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/shibam-khadanga-b91436286">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -29,7 +24,6 @@
 
 <br/><br/>
 
-<!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=ShibamKhadanga&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
 </div>
@@ -41,27 +35,24 @@
 ```python
 class ShibamKhadanga:
     def __init__(self):
-        self.name       = "Shibam Khadanga"
-        self.location   = "Rourkela, Odisha, India 🇮🇳"
-        self.education  = "B.Tech CSE @ Kalinga University (2023–2027)"
-        self.focus      = ["Python", "AI/ML", "Backend Engineering"]
-        self.stack      = ["Flask", "PostgreSQL", "SQLAlchemy", "scikit-learn", "OpenCV"]
-        self.internships = 2
-        self.projects   = 4
-        self.hackathons = 2  # National Level 🏆
+        self.name        = "Shibam Khadanga"
+        self.role        = "Python Developer | AI/ML Engineer | Backend Specialist"
+        self.location    = "Rourkela, Odisha, India 🇮🇳"
+        self.education   = "B.Tech CSE @ Kalinga University (2023–2027)"
+        self.core_stack  = ["Python", "Flask", "PostgreSQL", "SQLAlchemy", "scikit-learn", "OpenCV"]
+        self.ai_ml       = ["Computer Vision", "Deep Learning", "NLP", "Tesseract OCR"]
+        self.internships = 2   # CODTECH IT Solutions
+        self.projects    = 4   # Production-ready
+        self.hackathons  = 2   # National Level 🏆
+        self.certified   = "HackerRank Python (2025) ✅"
 
     def say_hi(self):
-        print("Building intelligent systems that solve real-world problems.")
+        print("I build AI-powered backend systems that solve real-world problems.")
+        print("Open to internships, collaborations & open-source contributions 🚀")
 
 me = ShibamKhadanga()
 me.say_hi()
 ```
-
-- 🔭 &nbsp;Core focus: **Python · Flask · PostgreSQL · scikit-learn · OpenCV**
-- 🧠 &nbsp;AI/ML interests: **Computer Vision, Deep Learning, NLP, OCR**
-- 🏆 &nbsp;**1st place** university coding competition (2025) · **2nd place** (2024, 2026)
-- 📜 &nbsp;**HackerRank Python Certified** (2025)
-- 📍 &nbsp;Rourkela, Odisha, India
 
 ---
 
@@ -83,7 +74,7 @@ me.say_hi()
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge&logo=python&logoColor=white)
 ![psycopg2](https://img.shields.io/badge/psycopg2-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -96,13 +87,13 @@ me.say_hi()
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=python&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -178,7 +169,6 @@ Real-time face detection system using Python and OpenCV.
 
 - Computer vision pipeline for images & video streams
 - Fine-tuned detection parameters for accuracy
-- Hands-on ML application
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -216,10 +206,9 @@ Real-time face detection system using Python and OpenCV.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShibamKhadanga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibamKhadanga&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibamKhadanga&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShibamKhadanga&theme=tokyonight&hide_border=true" width="60%"/>
 
@@ -236,7 +225,6 @@ Real-time face detection system using Python and OpenCV.
 
 ---
 
-<!-- Animated footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
