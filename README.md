@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-'''python
+```python
 class ShibamKhadanga:
     def __init__(self):
         self.name        = "Shibam Khadanga"
@@ -52,7 +52,7 @@ class ShibamKhadanga:
 
 me = ShibamKhadanga()
 me.say_hi()
-'''
+```
 
 ---
 
