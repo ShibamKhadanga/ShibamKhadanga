@@ -1,28 +1,20 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Shibam%20Khadanga&fontSize=52&fontColor=00D9FF&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Hackathon%20Warrior&descAlignY=60&descSize=20&descColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<!-- Static Info -->
-
-🤖 **Building AI that solves real problems**
-
-🐍 **Python · Flask · TensorFlow · FastAPI · React**
-
-🏆 **2× National Hackathon Participant**
-
-📍 **From Rourkela → National Stage 🚀**
-
-🎯 **Currently building SkillSetu for SIH**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:0f3460,100:00D9FF&height=280&section=header&text=Shibam%20Khadanga&fontSize=62&fontColor=00D9FF&fontAlignY=42&desc=Python%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=62&descSize=22&descColor=a0c4ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ShibamKhadanga&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ShibamKhadanga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibam-khadanga-b91436286)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shibamkhadanga947@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shibamkhadanga91)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shibam_Khadanga/)
+🤖 **Building AI that solves real problems** &nbsp;|&nbsp; 🐍 **Python · Flask · TensorFlow · FastAPI · React**
+
+🏆 **2× National Hackathon Participant** &nbsp;|&nbsp; 📍 **From Rourkela → National Stage 🚀** &nbsp;|&nbsp; 🎯 **Currently building SkillSetu for SIH**
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ShibamKhadanga&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ShibamKhadanga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibam-khadanga-b91436286)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibamkhadanga947@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shibamkhadanga91)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shibam_Khadanga/)
 
 </div>
 
@@ -66,11 +58,11 @@ class ShibamKhadanga:
 <div align="center">
 
 | 🚀 Project | 🏷️ Description | 🛠 Stack | 🏅 Event |
-|---|---|---|---|
-| [**SkillSetu**](https://github.com/ShibamKhadanga) | AI Career Platform — Kaushal se Rojgar tak | React · FastAPI · PostgreSQL · LLM | Smart India Hackathon |
-| [**WasteSense AI** ♻️](https://github.com/ShibamKhadanga/WasteSense-AI) | Campus waste classifier with eco-points gamification | TensorFlow · MobileNetV2 · Flask | NHIDE-2026, GGV Bilaspur |
-| [**Sahayak** 🤖](https://github.com/ShibamKhadanga/sahayak) | AI Co-Pilot for CSC Operators — 70% faster form processing | Flask · Tesseract OCR · Chrome Ext | CHIPS AIML, IIIT Nava Raipur |
-| [**Departmental Portal** 🏛️](https://github.com/ShibamKhadanga/Departmental_Portal) | Full-stack college portal with role-based access & analytics | Flask · SQLite · Chart.js | Personal Project |
+|:---:|:---|:---:|:---:|
+| [**SkillSetu**](https://github.com/ShibamKhadanga) | AI Career Platform — *Kaushal se Rojgar tak* | `React` `FastAPI` `PostgreSQL` `LLM` | 🇮🇳 Smart India Hackathon |
+| [**WasteSense AI** ♻️](https://github.com/ShibamKhadanga/WasteSense-AI) | Campus waste classifier with eco-points gamification | `TensorFlow` `MobileNetV2` `Flask` | 🏆 NHIDE-2026, GGV Bilaspur |
+| [**Sahayak** 🤖](https://github.com/ShibamKhadanga/sahayak) | AI Co-Pilot for CSC Operators — 70% faster form processing | `Flask` `Tesseract OCR` `Chrome Ext` | 🏆 CHIPS AIML, IIIT Nava Raipur |
+| [**Departmental Portal** 🏛️](https://github.com/ShibamKhadanga/Departmental_Portal) | Full-stack college portal with role-based access & analytics | `Flask` `SQLite` `Chart.js` | 💡 Personal Project |
 
 </div>
 
@@ -80,31 +72,31 @@ class ShibamKhadanga:
 
 <div align="center">
 
-**Languages**
+**⚡ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Backend & AI/ML**
+**🔧 Backend & AI/ML**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Frontend**
+**🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Tools**
+**🗄️ Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -117,21 +109,14 @@ class ShibamKhadanga:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShibamKhadanga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibamKhadanga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShibamKhadanga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=a0c4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibamKhadanga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00D9FF&text_color=a0c4ff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShibamKhadanga&theme=tokyonight&hide_border=true)](https://github.com/ShibamKhadanga)
-
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-
-[![Shibam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShibamKhadanga&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ShibamKhadanga)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShibamKhadanga&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/ShibamKhadanga)
 
 </div>
 
@@ -151,11 +136,11 @@ class ShibamKhadanga:
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Shibam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShibamKhadanga&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ShibamKhadanga)
+[![Shibam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShibamKhadanga&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF&bg_color=0d1117)](https://github.com/ShibamKhadanga)
 
 </div>
 
@@ -163,8 +148,10 @@ class ShibamKhadanga:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0f3460,100:0a0a0f&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-*⭐ Star my repos if you find them useful — it really motivates me!*
+**⭐ Star my repos if you find them useful — it really motivates me!**
+
+*"Code is poetry, and I'm still writing my best verse."*
 
 </div>
