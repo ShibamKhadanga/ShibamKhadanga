@@ -35,10 +35,7 @@ class ShibamKhadanga:
     @property
     def currently_building(self):
         return "SkillSetu — AI career platform for SIH 🎓"
-
-    @property
-    def currently_building(self):
-        return ["SkillSetu — AI career platform for SIH 🎓", "SkyRecon — Drone AI platform @ NIT Rourkela 🛸"]
+        return "SkyRecon — Drone AI platform @ NIT Rourkela 🛸"
 
     @property
     def stack(self):
