@@ -37,6 +37,10 @@ class ShibamKhadanga:
         return "SkillSetu — AI career platform for SIH 🎓"
 
     @property
+    def currently_building(self):
+        return ["SkillSetu — AI career platform for SIH 🎓", "SkyRecon — Drone AI platform @ NIT Rourkela 🛸"]
+
+    @property
     def stack(self):
         return {
             "languages"  : ["Python", "JavaScript", "Java", "C"],
@@ -59,6 +63,7 @@ class ShibamKhadanga:
 
 | 🚀 Project | 🏷️ Description | 🛠 Stack | 🏅 Event |
 |:---:|:---|:---:|:---:|
+| [**SkyRecon** 🛸](https://github.com/ShibamKhadanga/SkyRecon) | AI Drone Intelligence Platform — Mapping, Surveying & Disaster Management | `React` `FastAPI` `Gemini AI` `SQLite` | 🏛️ NIT Rourkela Internship |
 | [**SkillSetu**](https://github.com/ShibamKhadanga) | AI Career Platform — *Kaushal se Rojgar tak* | `React` `FastAPI` `PostgreSQL` `LLM` | 🇮🇳 Smart India Hackathon |
 | [**WasteSense AI** ♻️](https://github.com/ShibamKhadanga/WasteSense-AI) | Campus waste classifier with eco-points gamification | `TensorFlow` `MobileNetV2` `Flask` | 🏆 NHIDE-2026, GGV Bilaspur |
 | [**Sahayak** 🤖](https://github.com/ShibamKhadanga/sahayak) | AI Co-Pilot for CSC Operators — 70% faster form processing | `Flask` `Tesseract OCR` `Chrome Ext` | 🏆 CHIPS AIML, IIIT Nava Raipur |
