@@ -60,7 +60,7 @@ class ShibamKhadanga:
 
 | 🚀 Project | 🏷️ Description | 🛠 Stack | 🏅 Event |
 |:---:|:---|:---:|:---:|
-| [**SentinelExam** 🛡️](https://github.com/ShibamKhadanga/SentinelExam) | Privacy-preserving exam integrity platform using behavioral biometrics (keystroke + mouse + snapshots) instead of video proctoring | `React` `FastAPI` `PostgreSQL` `ML` | 🎓 B.Tech Final-Year Thesis |
+| [**SentinelExam** 🛡️](https://github.com/ShibamKhadanga/SentinelExam) | Privacy-preserving exam integrity platform using behavioral biometrics (keystroke + mouse + snapshots) instead of video proctoring | `React` `FastAPI` `PostgreSQL` `ML` | 🎓 B.Tech Final-Year Project |
 | [**SkyRecon** 🛸](https://github.com/ShibamKhadanga/SkyRecon) | AI Drone Intelligence Platform — Mapping, Surveying & Disaster Management | `React` `FastAPI` `Gemini AI` `SQLite` | 🏛️ NIT Rourkela Internship |
 | [**SkillSetu**](https://github.com/ShibamKhadanga) | AI Career Platform — *Kaushal se Rojgar tak* | `React` `FastAPI` `PostgreSQL` `LLM` | 🇮🇳 Smart India Hackathon |
 | [**WasteSense AI** ♻️](https://github.com/ShibamKhadanga/WasteSense-AI) | Campus waste classifier with eco-points gamification | `TensorFlow` `MobileNetV2` `Flask` | 🏆 NHIDE-2026, GGV Bilaspur |
