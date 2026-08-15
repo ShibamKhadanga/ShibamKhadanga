@@ -134,6 +134,7 @@ class ShibamKhadanga:
 2025 🥇  1st Position  ── Coding Competition, Kalinga University
 2025 ✅  Certified     ── HackerRank Python (Gold)
 2025 📝  Appeared      ── All India NCAT, Naukri Campus
+2024 🥈  2nd Position  ── Coding Competition, Kalinga University
 2024 🥈  2nd Position  ── Robotics Competition, Kalinga University
 ```
 
